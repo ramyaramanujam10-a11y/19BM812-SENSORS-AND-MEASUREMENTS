@@ -47,8 +47,7 @@ reading. Tabulate the readings as shown below
 
 
 # OBSERVATIONS
-<img width="1066" height="822" alt="image" src="https://github.com/user-attachments/assets/61aa9fe3-edae-40a0-ad7d-87c2c8afbbe3" />
-
+<img width="1192" height="1594" alt="WhatsApp Image 2026-05-29 at 8 44 09 AM" src="https://github.com/user-attachments/assets/a534c019-ef93-49b5-bd47-0d35a55e3fc3" />
 
 # MODEL GRAPH
 Draw the graph of Thermometer reading Vs meter reading.
@@ -57,7 +56,7 @@ Draw the graph of Thermometer reading Vs meter reading.
 
 
 # GRAPH:
-
+<img width="1192" height="1594" alt="WhatsApp Image 2026-05-29 at 8 44 09 AM" src="https://github.com/user-attachments/assets/a534c019-ef93-49b5-bd47-0d35a55e3fc3" />
 
 # RESULT
 The temperature is measured using thermocouple.
